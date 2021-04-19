@@ -62,9 +62,6 @@ export default class BiographyPage extends React.Component
                     {this.state.LANGUAGE.t('contacts_email')} 
                     </p>
                     
-                    <p>
-                    {this.state.LANGUAGE.t('contacts_phone')}
-                    </p>
                    </div>
                    <div className= "biography-img tetiana-contacts-img"/>
                 </div>
