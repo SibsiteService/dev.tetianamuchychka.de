@@ -186,6 +186,11 @@ a.social-icon:hover
 }
 @media screen and (max-width: 512px)
 {
+	.tetiana1-img
+{
+	background: no-repeat center top 0px url("../images/tetiana_mobile_background.jpeg");
+	background-size: cover;
+}
 	.section-header
 {
 	margin-top: 60%;
