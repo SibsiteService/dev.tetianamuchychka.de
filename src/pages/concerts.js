@@ -705,24 +705,25 @@ export default class ConcertsPage extends React.Component
                         </td>
                     </tr>
                     </a>
-                    <a href = "https://www.konzertgesellschaft.com/" target="_blank">
+                    
+                    <a href = "https://akgs-duesseldorf.lms.schulon.org/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_08_date')}
+                            5 Juli 2018
                             </span>
                             <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_08_place')}
+                            GGS Adolf-Klarenbach-Schule
                             </span>
                         </td>
                         <td>
-                        {this.state.LANGUAGE.t('concert_08_city')}  
+                        Düsseldorf, Deutschland  
                         </td>
                         <td>
-                            {this.state.LANGUAGE.t('concert_08_event')}
+                            Live Music Now e. V. Rhein-Ruhr mit Michailo Eraković, Akkordeon
                         </td>
                         <td>
-                            {this.state.LANGUAGE.t('concert_08_additional')}
+                            
                         </td>
                     </tr>
                     </a>
