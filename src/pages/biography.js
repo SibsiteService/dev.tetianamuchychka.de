@@ -59,7 +59,7 @@ export default class BiographyPage extends React.Component
             </Helmet>
             <div className="flex-column biography-section">
               <div className="background-underlay"/>
-                <span className="section-title biography-title"><a>{this.state.LANGUAGE.t('biography_first_paragraph')}</a></span>
+                <span className="section-title biography-title"><a>{this.state.LANGUAGE.t('biography')}</a></span>
                 <div className= "flex-row flex-sa biography-container">
                    <div className= "biography-text" >
                     <p>
