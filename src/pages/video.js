@@ -53,6 +53,18 @@ export default class MusicPage extends React.Component
               <span className="album-title">{this.state.LANGUAGE.t('Videos')}</span>
               <br /><br /><br /><br /><br />
              
+              
+             
+              <iframe margin-top="20%" width="450" height="215" 
+                      titel="Sergey Voytenko - Revelation (Tetiana Muchychka - Accordion)"
+                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                      src="https://www.youtube.com/embed/lmUrdhdhrwg"
+                      frameBorder="0"
+                      webkitallowfullscreen="true"
+                      mozallowfullscreen="true"
+                      allowFullScreen frameborder="0">
+              </iframe> 
+              <br /><br />
               <iframe margin-top="20%" width="450" height="215" 
                       titel="Pyotr Tchaikovsky - Nocturne op. 19 no. 4 (Tetiana Muchychka - Accordion)"
                       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

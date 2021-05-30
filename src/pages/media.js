@@ -72,7 +72,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('„Man kann sich zwei kleine Kinder vorstellen, die Spaß haben“ - Kunstsignal im Alten Bahnhof Rheydt-Geneicken - Mönchengladbach')}
                                 </span>
                                 <a target="_blank" href="http://www.the-new-listener.de/index.php/2019/10/04/man-kann-sich-zwei-kleine-kinder-vorstellen-die-spass-haben/">
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
@@ -88,7 +88,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('Ungewöhnliches Solo-Instrument begeistert bei Meisterkonzert - Erich Göpfert Stadthalle - Unna')}
                                 </span>
                                 <a target="_blank" href={article_6_img}>
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
@@ -105,7 +105,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('Tetiana Muchychka überzeugte mit ihrem Akkordeon-Konzert - Beethoven-Haus - Bonn')}
                                 </span>
                                 <a target="_blank" href={article_8_pdf}>
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
@@ -122,7 +122,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('Akkordeonspielerin Tetiana Muchychka begeistert im Schloss Bamenohl - Finnentrop')}
                                 </span>
                                 <a target="_blank" href="https://www.lokalplus.nrw/nachrichten/kultur-finnentrop/akkordeonspielerin-tetiana-muchychka-begeistert-im-schloss-bamenohl-37885">
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
@@ -139,7 +139,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('Ein ganzes Orchester hervorgezaubert - Konzert des Kulturkreises Schloss Raesfeld - Raesfeld')}
                                 </span>
                                 <a target="_blank" href="https://www.borkenerzeitung.de/lokales/raesfeld/Ein-ganzes-Orchester-hervorgezaubert-230216.html">
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
@@ -157,7 +157,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('Stadtlohn Klassik - Geschwister-Scholl-Gymnasium - Düsseldorf')}
                                 </span>
                                 <a data-toggle="modal" target="_blank" href={article_3_img}>
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
@@ -174,7 +174,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('Virtuosität trifft auf Leidenschaft - Tetiana Muchychka überzeugte im Sendener Rathaus auf ganzer Linie - Senden')}
                                 </span>
                                 <a target="_blank" href="https://m.wn.de/Muensterland/Kreis-Coesfeld/Senden/3982465-Tetiana-Muchychka-beim-Rathauskonzert-Virtuositaet-trifft-auf-Leidenschaft">
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
@@ -191,7 +191,7 @@ export default class MediaPage extends React.Component
                                 {this.state.LANGUAGE.t('Spielfreude und Fingerfertigkeit: Tetiana Muchychka konzertiert in Haus Marck - Tecklenburg')}
                                 </span>
                                 <a target="_blank" href="https://www.wn.de/Muensterland/Kreis-Steinfurt/Tecklenburg/3537627-Spielfreude-und-Fingerfertigkeit-Tetiana-Muchychka-konzertiert-in-Haus-Marck">
-                                {this.state.LANGUAGE.t('Weitere Details')}
+                                {this.state.LANGUAGE.t('media_details')}
                                 </a>
                             </div>
                         </div>
