@@ -36,7 +36,7 @@ export default class ConcertsPage extends React.Component
               <meta charSet="utf-8" />
               <title>Tetiana Muchychka - Konzerte</title>
               <meta name="description" content="Aktuelle Konzerte der Akkordeonistin Tetiana Muchychka."/>
-              <meta name="keywords" content="Tetiana Muchychka,Akkordeonistin,neue Konzerte,klassische Musik,NRW Kozerte,Best of NRW"></meta>
+              <meta name="keywords" content="Classic Music, Accordeon, Akkorden, Классическая музыка, Tetiana Muchychka,Akkordeonistin,neue Konzerte,klassische Musik,NRW Kozerte,Best of NRW"></meta>
             </Helmet>
             <div className="background-underlay"/>
             <div className="flex-column concerts-section">
