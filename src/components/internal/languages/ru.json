@@ -84,7 +84,7 @@
 
       "concert_13_date": "6 ноября 2018,  8:45",
       "concert_13_place": "GGS, Karlschule",
-      "concert_13_city": "Essen, Германия",
+      "concert_13_city": "Эссен, Германия",
       "concert_13_event": "Live Music Now e. V. Rhein-Ruhr mit Michailo Eraković, Akkordeon",
       "concert_13_additional": "",
 
@@ -102,25 +102,25 @@
 
       "concert_16_date": "30 ноября 2018,  10:00",
       "concert_16_place": "Kammermusiksaal, Folkwang Universität der Künste",
-      "concert_16_city": "Essen, Германия",
+      "concert_16_city": "Эссен, Германия",
       "concert_16_event": "Folkwang Akkordeon Wettbewerb",
       "concert_16_additional": "Произведения J. S. Bach, W. A. Mozart, G. Katzer",
 
       "concert_17_date": "8 декабря 2018,  19:00",
       "concert_17_place": "Parkhaus Hügel",
-      "concert_17_city": "Essen, Германия",
+      "concert_17_city": "Эссен, Германия",
       "concert_17_event": "Live Music Now e. V. Rhein-Ruhr mit Dennis Freundel (Gitarre) und Valerie Eickhoff (Gesang)",
       "concert_17_additional": "Произведения A. Piazzolla, K. Weill",
 
       "concert_18_date": "24 января 2019,  19:30",
       "concert_18_place": "Pina Bausch Theater, Folkwang Universität der Künste",
-      "concert_18_city": "Essen, Германия",
+      "concert_18_city": "Эссен, Германия",
       "concert_18_event": "Klassenabend Akkordeon",
       "concert_18_additional": "Произведения G. Katzer Toccata",
 
       "concert_19_date": "4 мая 2019,  20:00",
-      "concert_19_place": "Philharmonie Essen",
-      "concert_19_city": "Essen, Германия",
+      "concert_19_place": "Philharmonie Эссен",
+      "concert_19_city": "Эссен, Германия",
       "concert_19_event": "Takeover Ensemble! By Miki & Namika",
       "concert_19_additional": "",
 
@@ -138,13 +138,13 @@
 
       "concert_22_date": "4 июля 2019,  16:00",
       "concert_22_place": "Torbogensaal, Folkwang Universität der Künste",
-      "concert_22_city": "Essen Werden, Германия",
+      "concert_22_city": "Эссен Werden, Германия",
       "concert_22_event": "Bachelor-Projekt Lecture Konzert unter einem Thema „Ost und West, Musik und Literatur“",
       "concert_22_additional": "Произведения J. S. Bach, W. Jacobi, G. Katzer, A. Kusjakov",
 
       "concert_23_date": "6 июля 2019,  19:30",
       "concert_23_place": "Orgelsaal, Folkwang Universität der Künste",
-      "concert_23_city": "Essen Werden, Германия",
+      "concert_23_city": "Эссен Werden, Германия",
       "concert_23_event": "Frische Klänge",
       "concert_23_additional": "Произведения G. Katzer",
 
@@ -156,7 +156,7 @@
 
       "concert_25_date": "6 сентября 2019,  19:00",
       "concert_25_place": "Clubhaus SKHE",
-      "concert_25_city": "Essen, Германия",
+      "concert_25_city": "Эссен, Германия",
       "concert_25_event": "",
       "concert_25_additional": "Произведения J. S. Bach, J. Haydn, D. Scarlatti, P. I. Tschaikowski, F. Angelis",
 
@@ -180,7 +180,7 @@
 
       "concert_29_date": "20 сентября 2019,  19:00",
       "concert_29_place": "Schloss Borbeck",
-      "concert_29_city": "Essen",
+      "concert_29_city": "Эссен",
       "concert_29_event": "Цикл концертов „Best of NRW“ - Konzert & Künstleragentur Jens Gunnar Becker",
       "concert_29_additional": "",
 
@@ -246,20 +246,20 @@
 
       "concert_40_date": "7 ноября 2019,  8:45",
       "concert_40_place": "GGS, Karlschule",
-      "concert_40_city": "Essen, Германия",
-      "concert_40_event": "Live Music Now e. V. Rhein-Ruhr mit Timon Knöll (Klarinette)",
+      "concert_40_city": "Эссен, Германия",
+      "concert_40_event": "Live Music Now e. V. Rhein-Ruhr Вместе с Timon Knöll (Кларнет)",
       "concert_40_additional": "",
 
       "concert_41_date": "31 декабря 2019,  18:00",
       "concert_41_place": "Nova Vita Residenz",
-      "concert_41_city": "Essen, Германия",
+      "concert_41_city": "Эссен, Германия",
       "concert_41_event": "Silvester in der Nova Vita Residenz mit Dennis Freundel (Gitarre)",
       "concert_41_additional": "",
 
       "concert_42_date": "4 февраля 2020,  9:00",
       "concert_42_place": "GGS Sandstraße",
       "concert_42_city": "Duisburg-Marxloh, Германия",
-      "concert_42_event": "Live Music Now e. V. Rhein-Ruhr mit Timon Knöll (Klarinette)",
+      "concert_42_event": "Live Music Now e. V. Rhein-Ruhr Вместе с Timon Knöll (Кларнет)",
       "concert_42_additional": "",
 
       "concert_43_date": "13 февраля 2020,  16:00",
@@ -276,33 +276,51 @@
 
       "concert_45_date": "30 April 2020, 17:00",
       "concert_45_place": "KABAWIL-Hinterhof",
-      "concert_45_city": "Düsseldorf, Deutschland",
+      "concert_45_city": "Düsseldorf, Германия",
       "concert_45_event": "KABAWIL e. V.",
       "concert_45_additional": "Mit Dennis Freundel (Gitarre)",
 
       "concert_46_date": "20 Mai 2020, 16:00",
       "concert_46_place": "Johanniter-Stift",
-      "concert_46_city": "Meerbusch, Deutschland",
+      "concert_46_city": "Meerbusch, Германия",
       "concert_46_event": "Live Music Now e. V. Rhein-Ruhr",
       "concert_46_additional": "Mit Mihajlo Milosev (Akkordeon)",
 
       "concert_47_date": "25 Juni 2020, 15:00",
       "concert_47_place": "Ev. Seniorenzentrum",
-      "concert_47_city": "Essen Werden, Deutschland",
+      "concert_47_city": "Эссен Werden, Германия",
       "concert_47_event": "Live Music Now e. V. Rhein-Ruhr",
-      "concert_47_additional": "Mit Timon Knöll (Klarinette)",
+      "concert_47_additional": "Вместе с Timon Knöll (Кларнет)",
 
       "concert_48_date": "16 September 2020, 15:30",
       "concert_48_place": "Kath. Marienheim",
-      "concert_48_city": "Essen, Deutschland",
+      "concert_48_city": "Эссен, Германия",
       "concert_48_event": "Live Music Now e. V. Rhein-Ruhr",
-      "concert_48_additional": "Mit Timon Knöll (Klarinette)",
+      "concert_48_additional": "Вместе с Timon Knöll (Кларнет)",
 
       "concert_49_date": "9 Februar 2021, 16:00",
-      "concert_49_place": "Bürgermeisterhaus Essen",
-      "concert_49_city": "Essen, Deutschland",
+      "concert_49_place": "Bürgermeisterhaus Эссен",
+      "concert_49_city": "Эссен, Германия",
       "concert_49_event": "Live Music Now e. V. Rhein-Ruhr",
-      "concert_49_additional": "Mit Timon Knöll (Klarinette)",
+      "concert_49_additional": "Вместе с Timon Knöll (Кларнет)",
+
+      "concert_50_date": "20 Mai 2021, 15:30",
+      "concert_50_place": "Johanniter-Stift Meerbusch",
+      "concert_50_city": "Meerbusch, Германия",
+      "concert_50_event": "Live Music Now e.V. Rhein-Ruhr",
+      "concert_50_additional": "Дуэт Weles. Произведения:: M. Moszkowski, P.I. Tschaikowski, J.S. Bach, W.A. Mozart, J. Haydn, A. Piazzolla",
+
+      "concert_51_date": "22 Mai 2021, 18:30",
+      "concert_51_place": "Burg Vischering",
+      "concert_51_city": "Lüdinghausen, Германия",
+      "concert_51_event": "Werner Richard – Dr. Carl Dörken Stiftung",
+      "concert_51_additional": "Дуэт Weles. Произведения:: M. Moszkowski, P.I. Tschaikowski, J.S. Bach, W.A. Mozart, J. Haydn, A. Piazzolla",
+
+      "concert_52_date": "12 Juni 2021, 09:00",
+      "concert_52_place": "Werner Richard Saal",
+      "concert_52_city": "Herdecke, Германия",
+      "concert_52_event": "Vorspiel für ein Musikstipendium der Werner Richard – Dr. Carl Dörken Stiftung",
+      "concert_52_additional": "Дуэт Weles. Произведения:: M. Moszkowski, A. Piazzolla",
 
       "contact": "Контакты",
       "contacts_business": "По вопросам сотрудничества:",
