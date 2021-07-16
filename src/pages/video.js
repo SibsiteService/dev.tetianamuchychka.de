@@ -53,6 +53,18 @@ export default class MusicPage extends React.Component
               <span className="album-title">{this.state.LANGUAGE.t('Videos')}</span>
               <br /><br /><br /><br /><br />
              
+              
+             
+              <iframe margin-top="20%" width="450" height="215" 
+                      titel="Sergey Voytenko - Revelation (Tetiana Muchychka - Accordion)"
+                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                      src="https://www.youtube.com/embed/lmUrdhdhrwg"
+                      frameBorder="0"
+                      webkitallowfullscreen="true"
+                      mozallowfullscreen="true"
+                      allowFullScreen frameborder="0">
+              </iframe> 
+              <br /><br />
               <iframe margin-top="20%" width="450" height="215" 
                       titel="Pyotr Tchaikovsky - Nocturne op. 19 no. 4 (Tetiana Muchychka - Accordion)"
                       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -64,21 +76,7 @@ export default class MusicPage extends React.Component
               </iframe> 
               <br /><br />
               <iframe margin-top="20%" width="450" height="215" 
-<<<<<<< HEAD
-                      titel="Pyotr Tchaikovsky - Nocturne op. 19 no. 4 (Tetiana Muchychka - Accordion)"
-                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                      src="https://www.youtube.com/embed/BrkSdY4lSRQ"
-                      frameBorder="0"
-                      webkitallowfullscreen="true"
-                      mozallowfullscreen="true"
-                      allowFullScreen frameborder="0">
-              </iframe> 
-              <br /><br />
-              <iframe margin-top="20%" width="450" height="215" 
-                      titel="Enrique Granados Danza Española no.2 'Oriental' (Tetiana Muchychka - Accordion)"
-=======
                       titel="Enrique Granados Danza Española no.5 'Andaluza' (Tetiana Muchychka - Accordion)"
->>>>>>> 812a3d602a9f62544979d91d417461449b33fa7a
                       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                       src="https://www.youtube.com/embed/eq8g1m-cy9A"
                       frameBorder="0"

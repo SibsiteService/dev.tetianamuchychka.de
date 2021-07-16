@@ -73,44 +73,46 @@ export default class Nav  extends React.Component{
 
                         <div className="nav-content">
                         <div className="flex-column menu-item">
-                            <a href={"/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Willkomen')}</a>
+                            <a href={"/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('home')}</a>
                             <div className="underline"/>
                         </div>
 
                         <div className="flex-column menu-item">
-                            <a href={"/biography/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Biographie')}</a>
+                            <a href={"/biography/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('biography')}</a>
                             <div className="underline"/>
                         </div>
                         
                         <div className="flex-column menu-item dropdown-item">
-                            <a href="#">{LANGUAGE.t('Media')}</a>
+                            <a href="#">{LANGUAGE.t('multimedia_header')}</a>
                             <div className="underline"/>
 
                             <div className="dropdown-submenu">
-                                <a href={"/music/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Audio')}</a>
-                                <a href={"/video/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Videos')}</a>
-                                <a href={"/photo/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Photos')}</a>
+                                <a href={"/music/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('music_header')}</a>
+                                <a href={"/video/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('video_header')}</a>
+                                <a href={"/photo/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('photo')}</a>
                                 
                             </div>
                         </div>
         
                         <div className="flex-column menu-item">
-                            <a href={"/concerts/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Konzerte')}</a>
+                            <a href={"/concerts/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('concerts')}</a>
                             <div className="underline"/>
                         </div>
         
                         <div className="flex-column menu-item">
-                            <a href={"/media/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Presse')}</a>
+                            <a href={"/media/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('media_header')}</a>
                             <div className="underline"/>
                         </div>
 
                         <div className="flex-column menu-item">
-                            <a href={"/contacts/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('Kontakt')}</a>    
+                            <a href={"/contacts/?lang="+ LANGUAGE.currentLang()}>{LANGUAGE.t('contact')}</a>    
                             <div className="underline"/>
                         </div>
         
                         <div className="flex-row lang-buttons-container">
-                            <button className= {"language-button"+ (LANGUAGE.currentLang()=='de'?' active-language-button':'') } onClick={this.selectLenguage.bind(this,'de')}>DE</button>          
+                            <button className= {"language-button"+ (LANGUAGE.currentLang()=='de'?' active-language-button':'') } onClick={this.selectLenguage.bind(this,'de')}>DE</button>
+                            <button className= {"language-button"+ (LANGUAGE.currentLang()=='en'?' active-language-button':'') } onClick={this.selectLenguage.bind(this,'en')}>EN</button>
+                            <button className= {"language-button"+ (LANGUAGE.currentLang()=='ru'?' active-language-button':'') } onClick={this.selectLenguage.bind(this,'ru')}>РУ</button>          
                         </div>    
                         </div>
                         
