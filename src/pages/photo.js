@@ -28,6 +28,14 @@ import photo15 from "../assets/images/Tetiana_21.jpg";
 import photo16 from "../assets/images/Tetiana_22.jpg";
 import photo17 from "../assets/images/Tetiana_23.jpg";
 import photo18 from "../assets/images/Tetiana_15_reduced.jpg";
+import photo19 from "../assets/images/Tetiana_24.jpg";
+import photo20 from "../assets/images/Tetiana_25.jpg";
+import photo21 from "../assets/images/Tetiana_26.jpg";
+import photo22 from "../assets/images/Tetiana_27.jpg";
+import photo23 from "../assets/images/Tetiana_28.jpg";
+import photo24 from "../assets/images/Tetiana_29.jpg";
+import photo25 from "../assets/images/Tetiana_30.jpg";
+
 
 
 
@@ -227,6 +235,71 @@ export default class PhotoPage extends React.Component
                 <div class="desc">Photo: Sofia Barajas</div>
               </div>
             </div> 
+
+            <div class="responsive">
+              <div class="gallery">
+                <a target="_blank" href={photo20}>
+                  <img src={photo20} alt="Photo 24" width="100%" height="auto"/>
+                </a>
+                <div class="desc">Photo: Nadia Sarycheva</div>
+              </div>
+            </div> 
+
+            <div class="responsive">
+              <div class="gallery">
+                <a target="_blank" href={photo21}>
+                  <img src={photo21} alt="Photo 25" width="100%" height="auto"/>
+                </a>
+                <div class="desc">Photo: Nadia Sarycheva</div>
+              </div>
+            </div> 
+
+            <div class="responsive">
+              <div class="gallery">
+                <a target="_blank" href={photo22}>
+                  <img src={photo22} alt="Photo 26" width="100%" height="auto"/>
+                </a>
+                <div class="desc">Photo: Nadia Sarycheva</div>
+              </div>
+            </div> 
+
+            <div class="responsive">
+              <div class="gallery">
+                <a target="_blank" href={photo23}>
+                  <img src={photo23} alt="Photo 27" width="100%" height="auto"/>
+                </a>
+                <div class="desc">Photo: Nadia Sarycheva</div>
+              </div>
+            </div> 
+
+            <div class="responsive">
+              <div class="gallery">
+                <a target="_blank" href={photo24}>
+                  <img src={photo24} alt="Photo 28" width="100%" height="auto"/>
+                </a>
+                <div class="desc">Photo: Nadia Sarycheva</div>
+              </div>
+            </div> 
+
+            <div class="responsive">
+              <div class="gallery">
+                <a target="_blank" href={photo25}>
+                  <img src={photo25} alt="Photo 29" width="100%" height="auto"/>
+                </a>
+                <div class="desc">Photo: Nadia Sarycheva</div>
+              </div>
+            </div> 
+
+            <div class="responsive">
+              <div class="gallery">
+                <a target="_blank" href={photo26}>
+                  <img src={photo26} alt="Photo 30" width="100%" height="auto"/>
+                </a>
+                <div class="desc">Photo: Nadia Sarycheva</div>
+              </div>
+            </div> 
+
+            
 
             
             </Layout>
