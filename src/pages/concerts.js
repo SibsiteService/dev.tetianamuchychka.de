@@ -44,6 +44,311 @@ export default class ConcertsPage extends React.Component
 
               <table className="concert-table">
                 <tbody>
+                
+                <a href = "https://www.da-kunsthaus.de/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_71_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_71_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_71_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_71_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_71_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a>
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_70_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_70_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_70_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_70_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_70_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.folkwang-uni.de/home/hochschule/ueber-folkwang/campus/campus-duisburg/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_69_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_69_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_69_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_69_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_69_additional')}</td>
+                    </tr>
+                 </a>
+
+                <a href = "https://tuchwerk-aachen.de/event/die-kleine-theaterfabrik-las-damas-konzert/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_68_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_68_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_68_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_68_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_68_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a>
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_66_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_66_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_66_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_66_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_66_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a>
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_65_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_65_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_65_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_65_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_65_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/piazzolla16agosto/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_64_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_64_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_64_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_64_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_64_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/festivalsummer21-05/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_63_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_63_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_63_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_63_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_63_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/marineo2021/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_62_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_62_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_62_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_62_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_62_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_61_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_61_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_61_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_61_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_61_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a>
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_60_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_60_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_60_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_60_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_60_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_59_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_59_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_59_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_59_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_59_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_59_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_59_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_59_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_59_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_59_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_58_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_58_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_58_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_58_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_58_additional')}</td>
+                    </tr>
+                 </a>
+
+                <a href = "https://www.palermoclassica.it/1agopiazzolla/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_57_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_57_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_57_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_57_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_57_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.palermoclassica.it/1agopiazzolla/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_56_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_56_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_56_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_56_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_56_additional')}</td>
+                    </tr>
+                 </a>
+
+                <a href = "https://www.palermoclassica.it/marineo2021/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_55_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_55_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_55_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_55_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_55_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://luise-leven-schule.lvr.de//de/nav_main/index.html" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_54_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_54_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_54_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_54_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_54_additional')}</td>
+                    </tr>
+                 </a>
+                
+                <a href = "https://www.mosaik-schule.de/Termine/" target="_blank">
+                    <tr>
+                        <td>
+                            <span className="concert-first-title">
+                            {this.state.LANGUAGE.t('concert_53_date')}
+                            </span>
+                            <span className="concert-second-title">
+                            {this.state.LANGUAGE.t('concert_53_place')}
+                            </span>
+                        </td>
+                        <td>{this.state.LANGUAGE.t('concert_53_city')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_53_event')}</td>
+                        <td>{this.state.LANGUAGE.t('concert_53_additional')}</td>
+                    </tr>
+                 </a>
+                
                 <a href = "https://www.doerken-stiftung.de/werner-richard-saal-veranstaltungen/weitere-veranstaltungen/oeffentliches-vorspiel-fuer-ein-musikstipendium-der-stiftung/" target="_blank">
                     <tr>
                         <td>

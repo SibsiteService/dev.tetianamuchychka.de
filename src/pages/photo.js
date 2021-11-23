@@ -29,7 +29,7 @@ import photo16 from "../assets/images/Tetiana_22.jpg";
 import photo17 from "../assets/images/Tetiana_23.jpg";
 import photo18 from "../assets/images/Tetiana_15_reduced.jpg";
 import photo19 from "../assets/images/tetiana_24.jpg";
-import photo20 from "../assets/images/tetiana_25.jpg";
+import photo20 from "../assets/images/tetiana_25_reduced.jpg";
 import photo21 from "../assets/images/tetiana_26.jpg";
 import photo22 from "../assets/images/tetiana_27.jpg";
 import photo23 from "../assets/images/tetiana_28.jpg";
