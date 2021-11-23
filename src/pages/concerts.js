@@ -125,21 +125,7 @@ export default class ConcertsPage extends React.Component
                     </tr>
                  </a>
                 
-                <a>
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_65_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_65_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_65_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_65_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_65_additional')}</td>
-                    </tr>
-                 </a>
+               
                 
                 <a href = "https://www.palermoclassica.it/piazzolla16agosto/" target="_blank">
                     <tr>
