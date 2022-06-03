@@ -144,21 +144,6 @@ export default class ConcertsPage extends React.Component
 </tr>
 </a>
 
-                <a href = "" target="_blank">
-<tr>
-    <td>
-        <span className="concert-first-title">
-        {this.state.LANGUAGE.t('concert_81_date')}
-        </span>
-        <span className="concert-second-title">
-        {this.state.LANGUAGE.t('concert_81_place')}
-        </span>
-    </td>
-    <td>{this.state.LANGUAGE.t('concert_81_city')}</td>
-    <td>{this.state.LANGUAGE.t('concert_81_event')}</td>
-    <td>{this.state.LANGUAGE.t('concert_81_additional')}</td>
-</tr>
-</a>
 
 
                 <a href = "https://www.schwerte-stadtmarketing.de/veranstaltung/1-sommerkonzert-der-konzertgesellschaft-schwerte" target="_blank">
