@@ -44,217 +44,26 @@ export default class ConcertsPage extends React.Component
 
               <table className="concert-table">
                 <tbody>
-                <a href = "https://www.tuchmachermuseum.de/de/start" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_86_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_86_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_86_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_86_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_86_additional')}</td>
-                    </tr>
-                 </a><a href = "https://bmh-essen.jimdo.com/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_85_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_85_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_85_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_85_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_85_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.evangelisch-in-heepen.de/musik" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_84_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_84_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_84_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_84_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_84_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.da-kunsthaus.de/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_83_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_83_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_83_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_83_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_83_additional')}</td>
-                    </tr>
-                 </a><a href = "https://bmh-essen.jimdo.com/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_82_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_82_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_82_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_82_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_82_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/veranstaltungen-seite////5/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_81_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_81_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_81_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_81_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_81_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.schwerte-stadtmarketing.de/veranstaltung/1-sommerkonzert-der-konzertgesellschaft-schwerte/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_80_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_80_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_80_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_80_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_80_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/veranstaltungen-seite////5/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_79_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_79_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_79_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_79_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_79_additional')}</td>
-                    </tr>
-                 </a><a href = "https://insel.news/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_78_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_78_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_78_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_78_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_78_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_77_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_77_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_77_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_77_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_77_additional')}</td>
-                    </tr>
-                 </a><a href = "" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_76_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_76_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_76_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_76_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_76_additional')}</td>
-                    </tr>
-                 </a><a href = "https://livemusicnow-rheinruhr.de/konzerte/archiv/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_75_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_75_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_75_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_75_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_75_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.forum-hillesheim.de/index.php?option=com_eventlist&view=categoryevents&id=1&Itemid=7" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_74_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_74_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_74_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_74_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_74_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.facebook.com/permalink.php?story_fbid=1781192542086360&id=482194721986155&locale=ne_NP&_rdr" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_73_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_73_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_73_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_73_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_73_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/" target="_blank">
-                    <tr>
-                        <td>
-                            <span className="concert-first-title">
-                            {this.state.LANGUAGE.t('concert_72_date')}
-                            </span>
-                            <span className="concert-second-title">
-                            {this.state.LANGUAGE.t('concert_72_place')}
-                            </span>
-                        </td>
-                        <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
-                        <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
-                    </tr>
-                 </a><a href = "https://www.da-kunsthaus.de/" target="_blank">
+
+
+                
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+
+<a href = "https://www.da-kunsthaus.de/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -268,7 +77,9 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_71_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_71_additional')}</td>
 </tr>
-                 </a><a>
+</a>
+
+<a>
 <tr>
     <td>
         <span className="concert-first-title">
