@@ -44,8 +44,231 @@ export default class ConcertsPage extends React.Component
 
               <table className="concert-table">
                 <tbody>
+                
+                
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>                
+                
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>                
+                
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
 
 
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+
+
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+
+
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+
+
+            <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+                
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
+
+                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
+<tr>
+    <td>
+        <span className="concert-first-title">
+        {this.state.LANGUAGE.t('concert_72_date')}
+        </span>
+        <span className="concert-second-title">
+        {this.state.LANGUAGE.t('concert_72_place')}
+        </span>
+    </td>
+    <td>{this.state.LANGUAGE.t('concert_72_city')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
+    <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
+</tr>
+</a>
                 
                 <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen" target="_blank">
 <tr>
