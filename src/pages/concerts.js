@@ -952,6 +952,8 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_29_additional')}</td>
                     </tr>
                     </a>
+
+                    <a href = "" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -965,7 +967,9 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_28_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_28_additional')}</td>
                     </tr>
-                    
+                    </a>
+
+
                     <a href = "https://kreis-borken.de/de/service/aktuelles/aktuelle-pressemeldungen/?tx_news_pi1%5Bnews%5D=3477&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=bba8d4ed12ec284c138d8f9327892394" target="_blank">
                     <tr>
                         <td>
@@ -980,7 +984,9 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_27_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_27_additional')}</td>
                     </tr>
-                    </a> 
+                    </a>
+
+
                     <a href = "https://www.herdecke.de/rathaus-buergerservice/aktuelles-aus-herdecke/nachrichten/detailansicht/news/akkordeonistin-tatiana-muchychka-tritt-im-rahmen-der-konzertreihe-best-of-nrw-im-werner-richard-sa.html?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=cd00b58b965ef2be932c114a0eb6d089" target="_blank">
                     <tr>
                         <td>
