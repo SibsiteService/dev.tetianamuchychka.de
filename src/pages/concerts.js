@@ -44,8 +44,6 @@ export default class ConcertsPage extends React.Component
 
               <table className="concert-table">
                 <tbody>
-                
-                
                 <a href = "https://www.tuchmachermuseum.de/de/start" target="_blank">
                     <tr>
                         <td>
@@ -60,9 +58,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_86_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_86_additional')}</td>
                     </tr>
-                 </a>
-
-                <a href = "https://bmh-essen.jimdo.com/" target="_blank">
+                 </a><a href = "https://bmh-essen.jimdo.com/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -76,9 +72,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_85_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_85_additional')}</td>
                     </tr>
-                 </a>
-                
-                <a href = "https://www.evangelisch-in-heepen.de/musik" target="_blank">
+                 </a><a href = "https://www.evangelisch-in-heepen.de/musik" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -92,9 +86,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_84_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_84_additional')}</td>
                     </tr>
-                 </a>
-
-                <a href = "https://www.da-kunsthaus.de/" target="_blank">
+                 </a><a href = "https://www.da-kunsthaus.de/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -108,9 +100,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_83_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_83_additional')}</td>
                     </tr>
-                 </a>
-                
-                <a href = "https://bmh-essen.jimdo.com/" target="_blank">
+                 </a><a href = "https://bmh-essen.jimdo.com/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -124,9 +114,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_82_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_82_additional')}</td>
                     </tr>
-                 </a>
-                
-                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/veranstaltungen-seite////5/" target="_blank">
+                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/veranstaltungen-seite////5/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -140,9 +128,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_81_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_81_additional')}</td>
                     </tr>
-                 </a>
-                
-                <a href = "https://www.schwerte-stadtmarketing.de/veranstaltung/1-sommerkonzert-der-konzertgesellschaft-schwerte/" target="_blank">
+                 </a><a href = "https://www.schwerte-stadtmarketing.de/veranstaltung/1-sommerkonzert-der-konzertgesellschaft-schwerte/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -156,9 +142,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_80_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_80_additional')}</td>
                     </tr>
-                 </a>
-
-                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/veranstaltungen-seite////5/" target="_blank">
+                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/veranstaltungen-seite////5/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -172,9 +156,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_79_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_79_additional')}</td>
                     </tr>
-                 </a>
-
-                <a href = "https://insel.news/" target="_blank">
+                 </a><a href = "https://insel.news/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -188,9 +170,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_78_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_78_additional')}</td>
                     </tr>
-                 </a>
-                
-                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/" target="_blank">
+                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -204,9 +184,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_77_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_77_additional')}</td>
                     </tr>
-                 </a>
-
-                <a href = "" target="_blank">
+                 </a><a href = "" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -220,9 +198,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_76_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_76_additional')}</td>
                     </tr>
-                 </a>
-
-                <a href = "https://livemusicnow-rheinruhr.de/konzerte/archiv/" target="_blank">
+                 </a><a href = "https://livemusicnow-rheinruhr.de/konzerte/archiv/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -236,9 +212,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_75_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_75_additional')}</td>
                     </tr>
-                 </a>
-
-                <a href = "https://www.forum-hillesheim.de/index.php?option=com_eventlist&view=categoryevents&id=1&Itemid=7" target="_blank">
+                 </a><a href = "https://www.forum-hillesheim.de/index.php?option=com_eventlist&view=categoryevents&id=1&Itemid=7" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -252,9 +226,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_74_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_74_additional')}</td>
                     </tr>
-                 </a>
-                
-                <a href = "https://www.facebook.com/permalink.php?story_fbid=1781192542086360&id=482194721986155&locale=ne_NP&_rdr" target="_blank">
+                 </a><a href = "https://www.facebook.com/permalink.php?story_fbid=1781192542086360&id=482194721986155&locale=ne_NP&_rdr" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -268,9 +240,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_73_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_73_additional')}</td>
                     </tr>
-                 </a>
-                
-                <a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/" target="_blank">
+                 </a><a href = "https://www.folkwang-uni.de/nc/home/hochschule/veranstaltungen/" target="_blank">
                     <tr>
                         <td>
                             <span className="concert-first-title">
@@ -284,10 +254,7 @@ export default class ConcertsPage extends React.Component
                         <td>{this.state.LANGUAGE.t('concert_72_event')}</td>
                         <td>{this.state.LANGUAGE.t('concert_72_additional')}</td>
                     </tr>
-                 </a>
-
-                
-                <a href = "https://www.da-kunsthaus.de/" target="_blank">
+                 </a><a href = "https://www.da-kunsthaus.de/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -301,9 +268,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_71_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_71_additional')}</td>
 </tr>
-                 </a>
-                
-                <a>
+                 </a><a>
 <tr>
     <td>
         <span className="concert-first-title">
@@ -317,9 +282,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_70_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_70_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.folkwang-uni.de/home/hochschule/ueber-folkwang/campus/campus-duisburg/" target="_blank">
+                 </a><a href = "https://www.folkwang-uni.de/home/hochschule/ueber-folkwang/campus/campus-duisburg/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -333,9 +296,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_69_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_69_additional')}</td>
 </tr>
-                 </a>
-
-                <a href = "https://tuchwerk-aachen.de/event/die-kleine-theaterfabrik-las-damas-konzert/" target="_blank">
+                 </a><a href = "https://tuchwerk-aachen.de/event/die-kleine-theaterfabrik-las-damas-konzert/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -349,9 +310,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_68_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_68_additional')}</td>
 </tr>
-                 </a>
-                
-                <a>
+                 </a><a>
 <tr>
     <td>
         <span className="concert-first-title">
@@ -367,9 +326,7 @@ export default class ConcertsPage extends React.Component
 </tr>
                  </a>
                 
-               
-                
-                <a href = "https://www.palermoclassica.it/piazzolla16agosto/" target="_blank">
+               <a href = "https://www.palermoclassica.it/piazzolla16agosto/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -383,9 +340,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_64_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_64_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.palermoclassica.it/festivalsummer21-05/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/festivalsummer21-05/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -399,9 +354,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_63_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_63_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.palermoclassica.it/marineo2021/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/marineo2021/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -415,9 +368,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_62_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_62_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -431,9 +382,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_61_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_61_additional')}</td>
 </tr>
-                 </a>
-                
-                <a>
+                 </a><a>
 <tr>
     <td>
         <span className="concert-first-title">
@@ -447,9 +396,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_60_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_60_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -463,9 +410,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_59_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_59_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -479,9 +424,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_59_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_59_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/festivalsummer21-02/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -495,9 +438,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_58_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_58_additional')}</td>
 </tr>
-                 </a>
-
-                <a href = "https://www.palermoclassica.it/1agopiazzolla/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/1agopiazzolla/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -511,9 +452,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_57_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_57_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.palermoclassica.it/1agopiazzolla/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/1agopiazzolla/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -527,9 +466,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_56_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_56_additional')}</td>
 </tr>
-                 </a>
-
-                <a href = "https://www.palermoclassica.it/marineo2021/" target="_blank">
+                 </a><a href = "https://www.palermoclassica.it/marineo2021/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -543,9 +480,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_55_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_55_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://luise-leven-schule.lvr.de//de/nav_main/index.html" target="_blank">
+                 </a><a href = "https://luise-leven-schule.lvr.de//de/nav_main/index.html" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -559,9 +494,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_54_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_54_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.mosaik-schule.de/Termine/" target="_blank">
+                 </a><a href = "https://www.mosaik-schule.de/Termine/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -575,9 +508,7 @@ export default class ConcertsPage extends React.Component
     <td>{this.state.LANGUAGE.t('concert_53_event')}</td>
     <td>{this.state.LANGUAGE.t('concert_53_additional')}</td>
 </tr>
-                 </a>
-                
-                <a href = "https://www.doerken-stiftung.de/werner-richard-saal-veranstaltungen/weitere-veranstaltungen/oeffentliches-vorspiel-fuer-ein-musikstipendium-der-stiftung/" target="_blank">
+                 </a><a href = "https://www.doerken-stiftung.de/werner-richard-saal-veranstaltungen/weitere-veranstaltungen/oeffentliches-vorspiel-fuer-ein-musikstipendium-der-stiftung/" target="_blank">
 <tr>
     <td>
         <span className="concert-first-title">
@@ -1460,9 +1391,7 @@ export default class ConcertsPage extends React.Component
         {this.state.LANGUAGE.t('concert_01_additional')}
     </td>    
 </tr>
-</a>
-
-                </tbody>
+</a></tbody>
               </table>
               <img className="background-img-concerts concerts-img"/>
             </div>
