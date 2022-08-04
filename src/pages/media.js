@@ -17,6 +17,7 @@ import article_6_img from "../assets/images/article_6.jpg"
 import article_7_img from "../assets/images/article_7.jpg"
 import article_8_pdf from "../assets/presse/bonner_rundschau.pdf"
 import article_9_img from "../assets/images/article_9.png"
+import article_10_pdf from "../assets/images/wz_insel_TM.pdf"
 
 
 export default class MediaPage extends React.Component
@@ -61,6 +62,22 @@ export default class MediaPage extends React.Component
               <span className="media-title">{this.state.LANGUAGE.t('Presse')}</span>
                 <div className="flex-column media-section">
                     
+                    <div className="flex-column media-card">
+                        <div className="media-card-title" >{this.state.LANGUAGE.t('Daniel Diekhans - Tetiana Muchychka im Musiksalon im Alda')}</div>
+                        <div className="media-card-content">
+                            <a target="_blank" href={article_10_img}>
+                            <div className="media-card-img-tall media-card-article-4-photo"></div>
+                            </a>
+                            <div className="media-card-description">
+                                <span className="description-text">
+                                {this.state.LANGUAGE.t('"Performerin und Virtuosin am Akkordeon"')}
+                                </span>
+                                <a target="_blank" href={article_10_pdf}>
+                                {this.state.LANGUAGE.t('media_details')}
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                     <div className="flex-column media-card">
                         <div className="media-card-title" >{this.state.LANGUAGE.t('The New Listener - Foto:  Stefan Pieper - November 2019')}</div>
                         <div className="media-card-content">
