@@ -17,6 +17,7 @@ import article_6_img from "../assets/images/article_6.jpg"
 import article_7_img from "../assets/images/article_7.jpg"
 import article_8_pdf from "../assets/presse/bonner_rundschau.pdf"
 import article_9_img from "../assets/images/article_9.png"
+import article_10_img from "../assets/images/article_10_img.png"
 import article_10_pdf from "../assets/images/wz_insel_TM.pdf"
 
 
