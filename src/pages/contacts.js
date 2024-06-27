@@ -67,7 +67,7 @@ export default class contactsPage extends React.Component
   <p>
     <strong>{this.state.LANGUAGE.t('Impressum')}</strong>
     <br />
-    {this.state.LANGUAGE.t('Angaben gemäß § 5 TMG:')}
+    {this.state.LANGUAGE.t('Angaben gemäß § 5 TMG: ')}
     <br />
     {this.state.LANGUAGE.t('Tetiana Muchychka')}
     <br />
