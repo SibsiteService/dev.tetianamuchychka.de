@@ -54,17 +54,7 @@ export default class contactsPage extends React.Component
                   
 
 <div className="contacts-text">
-  <p>
-    {this.state.LANGUAGE.t('Für weitere Informationen und Konzertanfragen wenden Sie sich bitte an:')}
-    <br />
-    {this.state.LANGUAGE.t('Tetiana Muchychka')}
-  </p>
-
-  <p>
-    <a href="mailto:tetianamuchychka@gmail.com" target="_blank">
-      {this.state.LANGUAGE.t('tetianamuchychka@gmail.com')}
-    </a>
-  </p>
+ 
 
   <p>
     <strong>{this.state.LANGUAGE.t('Impressum')}</strong>
