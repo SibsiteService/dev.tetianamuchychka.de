@@ -43,13 +43,13 @@ export default class contactsPage extends React.Component
           <Layout toggleLanguage ={this.toggleLanguage}>
             <Helmet>
               <meta charSet="utf-8" />
-              <title>Tetiana Muchychka - Kontakt</title>
+              <title>Tetiana Muchychka - Kontakt und Impressum</title>
               <meta name="description" content="Für weitere Informationen und Konzertanfragen wenden Sie sich bitte an Tetiana Muchychka"/>
               <meta name="keywords" content="Tetiana Muchychka,Akkordeonistin,Best of NRW,Kontakt,Konzertanfrage,Telefonnummer Tetiana Muchychka"></meta>            
             </Helmet>
             <div className="flex-column contacts-section">
               <div className="background-underlay"/>
-                <span className="section-title contacts-title">{this.state.LANGUAGE.t('Kontakt')}</span>
+                <span className="section-title contacts-title">{this.state.LANGUAGE.t('Impressum')}</span>
                 <div className= "flex-row flex-sa contacts-container">
                    <div className= "contacts-text" >
                    
