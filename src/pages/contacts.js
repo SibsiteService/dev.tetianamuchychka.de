@@ -51,19 +51,56 @@ export default class contactsPage extends React.Component
               <div className="background-underlay"/>
                 <span className="section-title contacts-title">{this.state.LANGUAGE.t('Impressum')}</span>
                 <div className= "flex-row flex-sa contacts-container">
-                   <div className= "contacts-text" >
-                   
-                   <p>
-                    {this.state.LANGUAGE.t('Für weitere Informationen und Konzertanfragen wenden Sie sich bitte an:')} 
-                    <br/>
-                    {this.state.LANGUAGE.t('Tetiana Muchychka')}
-                    </p>
-                    
-                    <p>
-                    <a href="mailto:tetianamuchychka@gmail.com" target="_blank"> {this.state.LANGUAGE.t('tetianamuchychka@gmail.com')}</a> 
-                    </p>
-                    
-                   </div>
+                   <div className="contacts-text">
+  <p>
+    {this.state.LANGUAGE.t('Für weitere Informationen und Konzertanfragen wenden Sie sich bitte an:')}
+    <br />
+    {this.state.LANGUAGE.t('Tetiana Muchychka')}
+  </p>
+
+  <p>
+    <a href="mailto:tetianamuchychka@gmail.com" target="_blank">
+      {this.state.LANGUAGE.t('tetianamuchychka@gmail.com')}
+    </a>
+  </p>
+
+  <p>
+    <strong>{this.state.LANGUAGE.t('Impressum')}</strong>
+    <br />
+    {this.state.LANGUAGE.t('Angaben gemäß § 5 TMG:')}
+    <br />
+    {this.state.LANGUAGE.t('Tetiana Muchychka')}
+    <br />
+    {this.state.LANGUAGE.t('Ihre Straße und Hausnummer')}
+    <br />
+    {this.state.LANGUAGE.t('PLZ')} {this.state.LANGUAGE.t('Ihr Ort')}
+    <br />
+    {this.state.LANGUAGE.t('Deutschland')}
+  </p>
+
+  <p>
+    {this.state.LANGUAGE.t('Kontakt:')}
+    <br />
+    {this.state.LANGUAGE.t('Telefon: Ihre Telefonnummer')}
+    <br />
+    <a href="mailto:tetianamuchychka@gmail.com" target="_blank">
+      {this.state.LANGUAGE.t('tetianamuchychka@gmail.com')}
+    </a>
+  </p>
+
+  <p>
+    {this.state.LANGUAGE.t('Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:')}
+    <br />
+    {this.state.LANGUAGE.t('Tetiana Muchychka')}
+    <br />
+    {this.state.LANGUAGE.t('Ihre Straße und Hausnummer')}
+    <br />
+    {this.state.LANGUAGE.t('PLZ')} {this.state.LANGUAGE.t('Ihr Ort')}
+    <br />
+    {this.state.LANGUAGE.t('Deutschland')}
+  </p>
+</div>
+
                    
                 </div>
                 
